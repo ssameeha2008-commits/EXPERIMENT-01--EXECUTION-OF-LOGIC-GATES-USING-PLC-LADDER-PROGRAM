@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
- # DATE 
+ # NAME :Sameeha S
+ # REGISTER NUMBER :212225230243
+ # DEPARTMENT AIDS
+ # YEAR II
+ # DATE 23-07-2026
 
  
 # Aim:
@@ -80,7 +80,19 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+<img width="1312" height="696" alt="image" src="https://github.com/user-attachments/assets/ec74d8a3-c84c-484a-a833-9ebcdd389b2b" />
 
+<img width="1313" height="691" alt="image" src="https://github.com/user-attachments/assets/e7de86ea-6118-4bdb-8b3d-a9961e0f8e92" />
+
+<img width="1313" height="697" alt="image" src="https://github.com/user-attachments/assets/80a382d9-0eb8-46a5-a107-b849889a6020" />
+
+<img width="1315" height="701" alt="image" src="https://github.com/user-attachments/assets/552b8feb-2171-413a-a228-c904e202bf03" />
+
+<img width="1315" height="695" alt="image" src="https://github.com/user-attachments/assets/009255d7-5b2e-4a83-8c75-3f270c662125" />
+
+<img width="1316" height="697" alt="image" src="https://github.com/user-attachments/assets/2b1d4d9e-35fa-4bec-be3f-f74431d75b5b" />
+
+<img width="1315" height="697" alt="image" src="https://github.com/user-attachments/assets/b4a331f5-9426-446a-a146-9e0b4cc32920" />
 
 #Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
