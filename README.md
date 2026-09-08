@@ -1,4 +1,4 @@
-<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/d13c1ef3-5b93-4bff-8157-7094f888bded" /># EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
+# EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
  # NAME :Sameeha S
